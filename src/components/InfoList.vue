@@ -1167,6 +1167,7 @@ export default {
 		test() {
 			//测试冲突哈哈哈哈
 			console.log("测试2");
+			console.log("测试3");
 		},
 	},
 };
