@@ -1169,6 +1169,7 @@ export default {
 			console.log("测试2");
 			console.log("测试3");
 			console.log("测试4");
+			console.log("测试5");
 		},
 	},
 };
