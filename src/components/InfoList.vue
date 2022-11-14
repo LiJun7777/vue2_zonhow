@@ -1170,6 +1170,7 @@ export default {
 			console.log("测试3");
 			console.log("测试4");
 			console.log("测试5");
+			console.log("测试6");
 		},
 	},
 };
