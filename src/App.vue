@@ -6,13 +6,17 @@
 </template>
 
 <script>
+import test from 'node:test';
 import InfoList from './components/InfoList.vue'
 
 export default {
   name: 'App',
   components: {
     InfoList
-  }
+  },
+  methods() {
+    //测试
+  } //测试冲突
 }
 </script>
 
